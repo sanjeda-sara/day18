@@ -1,0 +1,14 @@
+
+//ARRAY
+//4 type of error: notice, warning, parse error (syntax), fatal error (logic wrong-dangerous one)
+
+__construct automatic run hoy and auto call hoy and is used to assign values in property
+
+"?" --> GET method
+
+header('Location: action.php?pages=full-name');
+			    $_GET[pages=>([pages] => full-name)
+
+
+methods:
+post: superglobal array post
